@@ -16,7 +16,7 @@ import dagger.android.DispatchingAndroidInjector
 import dagger.android.support.HasSupportFragmentInjector
 import javax.inject.Inject
 
-class LoginActivity : BaseActivity()  {
+class LoginActivity : BaseActivity  ()  {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
