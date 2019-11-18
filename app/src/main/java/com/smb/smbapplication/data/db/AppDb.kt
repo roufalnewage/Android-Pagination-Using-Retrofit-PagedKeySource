@@ -27,7 +27,7 @@ import com.smb.smbapplication.data.model.User
  */
 
 
-/**
+/**rt
  * Main database description.
  */
 @Database(
