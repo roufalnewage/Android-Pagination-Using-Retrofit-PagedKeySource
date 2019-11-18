@@ -23,12 +23,12 @@ import com.smb.smbapplication.data.model.User
 /**
  * Created by Shijil Kadambath on 03/08/2018
  * for NewAgeSMB
- * Email : shijil@newagesmb.com
+ * Email : shijil@newagesmb.comklklk
  */
 
 
 /**rt
- * Main database description.
+ * Main database description.klk;l
  */
 @Database(
     entities = [User::class],

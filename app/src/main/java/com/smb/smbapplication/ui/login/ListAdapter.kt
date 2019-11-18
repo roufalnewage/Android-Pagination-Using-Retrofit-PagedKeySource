@@ -37,7 +37,7 @@ import com.smb.smbapplication.ui.BaseDataBindListAdapter
  * A RecyclerView adapter for [Repo] class.
  */
 class ListAdapter(
-        private val dataBindingComponent: DataBindingComponent,
+        private val dataBindingComponent : DataBindingComponent,
         appExecutors: AppExecutors,
         private val itemClickCallback: ((User) -> Unit)?
 ) : BaseDataBindListAdapter<User, ItemUserBinding>(
